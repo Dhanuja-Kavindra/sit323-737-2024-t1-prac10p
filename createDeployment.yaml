@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: mynode-week6
-        image: dhanujak/webapp-week6:1.1.1
+        image: dhanujak/webapp-week6:1.1.2
         ports:
         - containerPort: 3040
